@@ -1,0 +1,1 @@
+ C:\\Users\\Asus\\StudioProjects\\pixbay_gallery\\.dart_tool\\flutter_build\\7a5ba50b48df94c75966da24a326de30\\native_assets.yaml: 
